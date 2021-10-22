@@ -1,0 +1,16 @@
+{
+  "name": "pergunta-resposta-nodejs",
+  "version": "1.0.0",
+  "description": "Pacote para testar o funcionamento do NPM.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "pergunta",
+    "resposta"
+  ],
+  "author": "Priscilla Pinheiro",
+  "license": "ISC"
+}
