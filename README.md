@@ -40,7 +40,7 @@ http://localhost:3000/?pergunta=melhor-filme
 ```
 http://localhost:3000/?pergunta=resposta-sobre-a-vida-o-universo-e-tudo-mais
 ```
-A resposta será imprimida na tela do navegador.
+A resposta será impressa na tela do navegador.
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
