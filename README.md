@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :arrow_forward: Executando o projeto
 No terminal inicie o projeto digitando:
 ```
-node app.js
+$ node app.js
 ```
 Quando confirmado que a aplicação está rodando, abra a url ``http://localhost:3000/`` ou ``http://127.0.0.1:3000/`` no navegador. Para fazer uma pergunta, digite ``?pergunta=pergunte-aqui`` no final da url.
 
