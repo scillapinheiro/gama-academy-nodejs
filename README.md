@@ -21,7 +21,6 @@
 Aplicação simples de perguntas e respostas.
 
 ## :rocket: Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -41,6 +40,10 @@ http://localhost:3000/?pergunta=melhor-filme
 http://localhost:3000/?pergunta=resposta-sobre-a-vida-o-universo-e-tudo-mais
 ```
 A resposta será impressa na tela do navegador.
+
+## :green_heart: Professor(a)
+Érik Borges
+| :---: |
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
